@@ -1,0 +1,13 @@
+/* Cajas de texto grises con letras negras */
+.custom-input {
+  background-color: #e9ecef; /* gris claro */
+  color: #000; /* letras negras */
+  border: 1px solid #ced4da;
+}
+
+/* Botones todos del mismo tamaño */
+.btn {
+  height: 45px;
+  font-weight: 500;
+  font-size: 16px;
+}
